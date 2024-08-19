@@ -161,7 +161,7 @@ ret
 ## Output
 ![image](https://github.com/user-attachments/assets/80e5a7d3-89b9-4756-ae19-8ab5fa6844f6)
 
-## xor:
+## XOR:
 ```
 MOV [SI+2],AX;
 MOV AX,0A32H;
