@@ -127,6 +127,9 @@ org 100h
  MOV [2399h],al;
  ret
 ```
+
+![image](https://github.com/user-attachments/assets/058ca5d8-63cc-4a44-9fac-73cd5b159f44)
+
 ## Programs For Logical Operators:
 ## AND
 ```
